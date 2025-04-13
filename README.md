@@ -4,7 +4,7 @@
 
 ## Key Features:
 
-1.Very simple implementation of a doctor-patient system.
+1.Very simple implementation of a doctor-patient relation.
 
 2.Patients can view doctors and book appointments.
 
